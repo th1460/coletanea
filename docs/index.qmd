@@ -1,61 +1,128 @@
 ---
 title: "Coletânea Jovem"
-format: html
+format: 
+    html: 
+        fontsize: 120%
+        page-layout: full
 self-contained: true
+toc: true
+toc-title: "Músicas"
 ---
+
+![](logo.jpeg){width="40%"}
 
 ## Te agradeço
 
-Por tudo o que tens feito
-Por tudo o que vais fazer
-Por Tuas promessas e tudo o que És
-Eu quero Te agradecer
-Com todo o meu ser
+Por tudo o que tens feito <br>
+Por tudo o que vais fazer <br>
+Por Tuas promessas e tudo o que És <br>
+Eu quero Te agradecer <br>
+Com todo o meu ser <br>
 
-Te agradeço, meu Senhor
-(Te agradeço, meu Senhor)
-Te agradeço, meu Senhor
-(Te agradeço, meu Senhor)
+Te agradeço, meu Senhor <br>
+(Te agradeço, meu Senhor) <br>
+Te agradeço, meu Senhor <br>
+(Te agradeço, meu Senhor) <br>
 
-Te agradeço por me libertar e salvar
-Por ter morrido em meu lugar, Te agradeço
-Jesus, Te agradeço
-Eu Te agradeço
+Te agradeço por me libertar e salvar <br>
+Por ter morrido em meu lugar, Te agradeço <br>
+Jesus, Te agradeço <br>
+Eu Te agradeço <br>
+Te agradeço <br>
+
+Por tudo o que tens feito <br>
+Por tudo o que vais fazer <br>
+Por Tuas promessas e tudo o que És <br>
+Eu quero Te agradecer <br>
+Com todo o meu ser <br>
+
+Te agradeço, meu Senhor <br>
+(Te agradeço, meu Senhor) <br>
+Te agradeço, meu Senhor <br>
+(Te agradeço, meu Senhor) <br>
+
+Te agradeço por me libertar e salvar <br>
+Por ter morrido em meu lugar, Te agradeço <br>
+Jesus, Te agradeço <br>
+Eu Te agradeço <br>
+Te agradeço <br>
+
+Te agradeço, meu Senhor <br>
+(Te agradeço, meu Senhor) <br>
+Te agradeço, meu Senhor <br>
+(Te agradeço, meu Senhor) <br>
+
+Te agradeço por me libertar e salvar <br>
+Por ter morrido em meu lugar, Te agradeço <br>
+Jesus, Te agradeço <br>
+Eu Te agradeço <br>
 Te agradeço
 
-Por tudo o que tens feito
-Por tudo o que vais fazer
-Por Tuas promessas e tudo o que És
-Eu quero Te agradecer
-Com todo o meu ser
+## Shekinah
 
-Te agradeço, meu Senhor
-(Te agradeço, meu Senhor)
-Te agradeço, meu Senhor
-(Te agradeço, meu Senhor)
+É dia de juízo em Israel <br>
+O povo se reúne em comunhão <br>
+Um sacrifício é feito em louvor <br>
+E o sacerdote faz uma oração <br>
 
-Te agradeço por me libertar e salvar
-Por ter morrido em meu lugar, Te agradeço
-Jesus, Te agradeço
-Eu Te agradeço
-Te agradeço
+(Shekinah) Eu quero receber a unção <br>
+Rendido aos Teus pés no trono de adoração <br>
+(Shekinah) Derrame sobre mim os Teus dons <br>
+Eu quero adorar e receber Teu perdão <br>
+Eu quero receber a Tua shekinah! <br>
 
-Te agradeço, meu Senhor
-(Te agradeço, meu Senhor)
-Te agradeço, meu Senhor
-(Te agradeço, meu Senhor)
+Entrego minhas mãos pra Te servir <br>
+Entrego meu viver pra Te amar <br>
+Renove o meu pensar e o meu agir <br>
+Renove o meu querer pra Te adorar <br>
 
-Te agradeço por me libertar e salvar
-Por ter morrido em meu lugar, Te agradeço
-Jesus, Te agradeço
-Eu Te agradeço
-Te agradeço
+(Shekinah) Eu quero receber a unção <br>
+Rendido aos Teus pés no trono de adoração <br>
+(Shekinah) Derrame sobre mim os Teus dons <br>
+Eu quero adorar e receber Teu perdão <br>
+Eu quero receber a Tua shekinah! <br>
 
-Te agradeço por me libertar e salvar
-Por ter morrido em meu lugar, Te agradeço
-Jesus, Te agradeço
-Eu Te agradeço
-Te agradeço
-Te agradeço
-Te agradeço
+(Shekinah) Eu quero receber a unção <br>
+Rendido aos Teus pés no trono de adoração <br>
+(Shekinah) Derrame sobre mim os Teus dons <br>
+Eu quero adorar e receber Teu perdão <br>
+Eu quero receber a Tua shekinah! <br>
 
+Shekinah! <br>
+Shekinah!
+
+## Vim para adorar
+
+Luz do mundo viestes á Terra <br>
+Pra que eu pudesse te ver <br>
+Tua beleza me leva a adorar-te <br>
+Quero contigo viver <br>
+
+Vim para adorar-te <br>
+Vim para prostrar-me <br>
+Vim para dizer que és meu Deus <br>
+És totalmente amável <br>
+Totalmente digno <br>
+Tão maravilhoso para mim <br>
+
+Eterno Rei, exaltado nas alturas <br>
+Glorioso nos céus. <br>
+Humilde vieste a terra que criaste, <br>
+E por amor pobre se fez <br>
+
+Vim para adorar-te <br>
+Vim para prostrar-me <br>
+Vim para dizer que és meu Deus <br>
+És totalmente amável <br>
+Totalmente digno <br>
+Tão maravilhoso para mim <br>
+
+Eu nunca saberei o preço <br>
+Dos meus pecados lá na cruz. <br>
+
+Vim para adorar-te <br>
+Vim para prostrar-me <br>
+Vim para dizer que és meu Deus <br>
+És totalmente amável <br>
+Totalmente digno <br>
+Tão maravilhoso para mim
