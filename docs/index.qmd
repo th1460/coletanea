@@ -7,159 +7,207 @@ format:
 self-contained: true
 toc: true
 toc-title: "Músicas"
+toc-location: body
 ---
 
 ![](logo.jpeg){width="40%"}
 
-## Maranata
+## Meu Refúgio
 
-Tu és a minha luz <br>
-A minha salvação <br>
-E a ti me renderei <br>
-Se ao teu lado estou <br>
-Seguro em tuas mãos <br>
-Eu nada temerei <br>
-Oh oh uoh tu és santo, ó senhor <br>
-Oh oh uoh tu és digno de louvor <br>
+És o meu Refúgio <br>
+Minha Fortaleza <br>
+Meu socorro eterno <br>
+És o meu abrigo <br>
 
-Só em ti confiarei <br>
-Eu nada temerei <br>
-Em frente eu irei <br>
-Pois eu sei que vivo estás <br>
-E um dia voltarás do céu pra nos buscar <br>
-Para sempre reinarás, aleluia <br>
+És o meu Refúgio <br>
+És o meu Refúgio <br>
 
-Tu és a minha luz <br>
-A minha salvação <br>
-E a ti me renderei <br>
-Se ao teu lado estou <br>
-Seguro em tuas mãos <br>
-Eu nada temerei <br>
-Oh oh oh oh tu és santo, ó senhor <br>
-Oh uoh uoh uoh tu és digno de louvor <br>
+Minha Fortaleza <br>
+Minha Fortaleza <br>
 
-Só em ti confiarei <br>
-Eu nada temerei <br>
-Em frente eu irei <br>
-Pois eu sei que vivo estás <br>
-E um dia voltarás do céu pra nos buscar <br>
-Para sempre reinarás, aleluia <br>
+Meu socorro eterno <br>
+Meu socorro eterno <br>
 
-Só em ti confiarei <br>
-Eu nada temerei <br>
-Em frente eu irei <br>
-Pois eu sei que vivo estás <br>
-E um dia voltarás do céu pra nos buscar <br>
-Pra sempre reinarás, aleluia <br>
+És o meu abrigo <br>
+És o meu abrigo <br>
 
-Vem, Jesus <br>
-Vem, Jesus <br>
-Maranata, ora, vem, senhor Jesus <br>
-Vem, Jesus <br>
-Vem, Jesus <br>
-Maranata, ora, vem, senhor Jesus <br>
-Vem, Jesus <br>
-Vem, Jesus <br>
-Maranata, ora, vem, senhor Jesus <br>
-Vem, Jesus <br>
-Vem, Jesus <br>
-Maranata, ora, vem, senhor Jesus <br>
+Quando o mar se agitar <br>
+Confiarei em Ti Senhor <br>
+E se a Terra se abrir <br>
+Confiarei em Ti meu Deus <br>
 
-## Descansar
+És o meu Refúgio <br>
+É o meu Refúgio <br>
 
-Não quero viver pensando no amanhã <br>
-Eu quero ser feliz <br>
-Dias vem e vão não irei temer <br>
-Posso confiar em Ti <br>
-Se o futuro incerto é, basta olhar com os olhos da fé <br>
-E descansar nos braços do Pai <br>
+Minha Fortaleza <br>
+Minha Fortaleza <br>
 
-Descansar, confiando em Tua proteção <br>
-Descansar, vou me entregar em tuas mãos <br>
-Descansar sei que cuidará de mim Senhor <br>
-Ensina-me a descansar <br>
+Meu socorro eterno <br>
+Meu socorro eterno <br>
 
-Cada passo que eu der seja aonde estiver <br>
-Quero entregar a Ti <br>
-Cada decisão vou depor em Tuas mãos e esperar <br>
-Se das aves Deus cuida <br>
-Sei que tenho muito mais valor <br>
-Posso esperar e descansar nos braços do Pai <br>
+És o meu abrigo <br>
 
-Descansar, confiando em Tua proteção <br>
-Descansar, vou me entregar em Tuas mãos <br>
-Descansar sei que cuidará de mim Senhor <br>
-Ensina-me a descansar <br>
+És o meu Refúgio <br>
+És o meu Refúgio <br>
 
-Só em Teus braços encontro paz pra repousar <br>
-Mesmo que os temores me vençam, vou descansar <br>
+Minha Fortaleza <br>
+Minha Fortaleza <br>
 
-Confiando em Tua proteção <br>
-Vou me entregar em Tuas mãos <br>
-Sei que cuidará de mim Senhor <br>
-Ensina-me a descansar <br>
+Meu socorro eterno <br>
+Meu socorro eterno <br>
 
-## Ao olhar pra cruz
+És o meu abrigo <br>
 
-Andei tão cego, sem rumo certo <br>
-Buscando a paz e descanso <br>
-Eu procurei por tantos meios <br>
-Justificar meus erros <br>
-Mas ao clamar, meus olhos abri <br>
+Quando o mar se agitar <br>
+Confiarei em Ti Senhor <br>
+E se a Terra se abrir <br>
+Confiarei em Ti meu Deus <br>
 
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor, tua graça me alcançou <br>
+Quando o mar se agitar <br>
+Confiarei em Ti Senhor <br>
+E se a Terra se abrir <br>
+Confiarei em Ti meu Deus
 
-E ao ver tua glória, naquele dia <br>
-Me alegrarei em gratidão <br>
-Tocarei as marcas, marcas de vitória <br>
-Vencido é o pecado <br>
-Perante Ti me prostrarei <br>
+## Na casa
 
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor, tua graça me alcançou <br>
+Fui convidado à mesa <br>
+Larguei minhas defesas <br>
+E vim reconhecer <br>
+Não merecia estar aqui <br>
 
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
+Comigo eu trouxe amigos <br>
+Felizes ou feridos <br>
+Gente que escutou <br>
+Esse chamado e aceitou <br>
 
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
+E é tão bom saber que há lugar aqui <br>
+A graça nos chamou à mesa do Senhor <br>
 
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
+De Deus pai <br>
+De Deus pai <br>
 
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
+O som da sua palavra <br>
+Curou a nossa alma <br>
+O Verbo nos amou <br>
+Da solidão nos resgatou <br>
+E é tão bom saber que há lugar aqui <br>
+A graça nos chamou à mesa do Senhor <br>
 
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor <br>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
 
-E ao olhar pra cruz eu entendo o amor <br>
-Derramado ali por mim <br>
-Sacrifício de sangue por um pecador <br>
-Não sou merecedor <br>
-Não sou merecedor, tua graça me alcançou <br>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
+De Deus Pai <br>
+De Deus Pai <br>
+Do meu Pai <br>
+Do teu Pai <br>
+Do nosso Pai <br>
 
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
+Há lugar na casa <br>
+Há perdão na casa <br>
+Quando estamos juntos <br>
+Nosso encontro é casa de Deus Pai <br>
+Há esperança na casa <br>
+Recomeço na casa <br>
+Reunidos Nele <br>
+Nosso encontro é casa de Deus Pai <br>
+De Deus Pai <br>
+De Deus pai <br>
+Do meu Pai <br>
+Do teu Pai <br>
+Do nosso Pai
 
-Reconheço <br>
-Não sou digno <br>
-Pela graça <br>
-Eu fui salvo <br>
+## Canção do Apocalipse
+
+Digno é o cordeiro <br>
+Que foi morto <br>
+Santo, santo ele é <br>
+Um novo cântico <br>
+Ao que se assenta <br>
+Sobre o trono do céu <br>
+
+Digno é o cordeiro <br>
+Que foi morto <br>
+Santo, santo ele é <br>
+Um novo cântico <br>
+Ao que se assenta <br>
+Sobre o trono do céu <br>
+
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, e é e há de vir <br>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+Jesus, teu nome é força <br>
+É fôlego de vida <br>
+Misteriosa água viva <br>
+
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, e é e há de vir <br>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+
+Maravilhado, extasiado <br>
+Eu fico ao ouvir teu nome <br>
+Jesus, teu nome é força <br>
+É fôlego de vida <br>
+Misteriosa água viva <br>
+
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, e é e há de vir <br>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, e é e há de vir <br>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei <br>
+
+Santo, santo, santo <br>
+Deus todo poderoso <br>
+Que era, e é e há de vir <br>
+Com a criação eu canto <br>
+Louvores ao rei dos reis <br>
+És tudo para mim <br>
+E eu te adorarei
