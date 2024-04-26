@@ -5,12 +5,15 @@ format:
         fontsize: 120%
         page-layout: full
 self-contained: true
-toc: true
-toc-title: "Músicas"
-toc-location: body
 ---
 
 ![](logo.jpeg){width="40%"}
+
+## Músicas
+
+- [Meu Refúgio](#meu-refúgio)
+- [Na casa](#na-casa)
+- [Canção do Apocalipse](#canção-do-apocalipse)
 
 ## Meu Refúgio
 
