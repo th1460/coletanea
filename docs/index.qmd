@@ -11,206 +11,130 @@ self-contained: true
 
 ## Músicas
 
-- [Meu Refúgio](#meu-refúgio)
-- [Na casa](#na-casa)
-- [Canção do Apocalipse](#canção-do-apocalipse)
+- [Sonda-me Usa-me](#sonda-me-usa-me)
+- [Quão Grande é o meu Deus](#quão-grande-é-o-meu-deus)
+- [Teu Poder](#teu-poder)
 
-## Meu Refúgio
+## Sonda-me, Usa-me
 
-És o meu Refúgio <br>
-Minha Fortaleza <br>
-Meu socorro eterno <br>
-És o meu abrigo <br>
+Sonda-me, Senhor, e me conhece <br>
+Quebranta o meu coração <br>
+Transforma-me conforme a tua palavra <br>
+E enche-me até que em mim se ache só a ti <br>
+Então, usa-me, Senhor Usa-me <br>
 
-És o meu Refúgio <br>
-És o meu Refúgio <br>
+Como um farol que brilha à noite <br>
+Como ponte sobre as águas <br>
+Como abrigo no deserto <br>
+Como flecha que acerta o alvo <br>
+Eu quero ser usado da maneira que te agrade <br>
+Em qualquer hora e em qualquer lugar <br>
+Eis aqui a minha vida, usa-me, Senhor Usa-me <br>
 
-Minha Fortaleza <br>
-Minha Fortaleza <br>
+Sonda-me, Senhor, e me conhece <br>
+Quebranta o meu coração <br>
+Transforma-me conforme a tua palavra <br>
+E enche-me até que em mim se ache só a ti <br>
+E então Usa-me, Senhor Usa-me <br>
 
-Meu socorro eterno <br>
-Meu socorro eterno <br>
+Como um farol que brilha à noite <br>
+Como ponte sobre as águas <br>
+Como abrigo no deserto <br>
+Como flecha que acerta o alvo <br>
+Eu quero ser usado da maneira que te agrade <br>
+Em qualquer hora e em qualquer lugar <br>
+Eis aqui a minha vida, usa-me, Senhor Usa-me <br>
+ 
+Sonda-me, quebranta-me, transforma-me Enche-me e usa-me Sonda-me, transforma-me E enche-me, e usa-me <br>
+Sonda-me, Quebranta-me, transforma-me Enche-me e usa-me <br>
+Sonda-me, quebranta-me, transforma-me Enche-me e usa-me, Senhor <br>
+   
+Como um farol que brilha à noite <br>
+Como ponte sobre as águas <br>
+Como abrigo no deserto <br>
+Como flecha que acerta o alvo <br>
+Eu quero ser usado da maneira que te agrade, oh, Deus <br>
 
-És o meu abrigo <br>
-És o meu abrigo <br>
+Em qualquer hora e em qualquer lugar <br>
+Eis aqui a minha vida, usa-me, Senhor <br>
+Usa-me <br>
 
-Quando o mar se agitar <br>
-Confiarei em Ti Senhor <br>
-E se a Terra se abrir <br>
-Confiarei em Ti meu Deus <br>
+Sonda-me, quebranta-me transforma-me E enche-me, e usa-me <br>
+Sonda-me, Quebranta-me, transforma-me Enche-me e usa-me, Senhor E usa-me, Senhor
 
-És o meu Refúgio <br>
-É o meu Refúgio <br>
+## Quão Grande é o meu Deus
 
-Minha Fortaleza <br>
-Minha Fortaleza <br>
+Com esplendor de um rei <br>
+Em majestade e luz <br>
+Faz a terra se alegrar <br>
+Faz a terra se alegrar <br>
 
-Meu socorro eterno <br>
-Meu socorro eterno <br>
+Ele é a própria luz <br>
+E as trevas vão fugir <br>
+Tremer com sua voz <br>
+Tremer com sua voz <br>
 
-És o meu abrigo <br>
+Quão grande é o meu Deus <br>
+Cantarei quão grande é o meu Deus <br>
+E todos hão de ver <br>
+Quão grande é o meu Deus <br>
 
-És o meu Refúgio <br>
-És o meu Refúgio <br>
+Por gerações ele é <br>
+O tempo está em tuas mãos <br>
+O começo e o fim, o começo e o fim <br>
 
-Minha Fortaleza <br>
-Minha Fortaleza <br>
+Três se formam em um <br>
+Filho, Espírito e Pai <br>
+Cordeiro e leão, cordeiro e leão <br>
 
-Meu socorro eterno <br>
-Meu socorro eterno <br>
+Quão grande é o meu Deus <br>
+Cantarei quão grande é o meu Deus <br>
+E todos hão de ver <br>
+Quão grande é o meu Deus
 
-És o meu abrigo <br>
+Quão grande é o meu Deus <br>
+Cantarei quão grande é o meu Deus <br>
+E todos hão de ver <br>
+Quão grande é o meu Deus <br>
 
-Quando o mar se agitar <br>
-Confiarei em Ti Senhor <br>
-E se a Terra se abrir <br>
-Confiarei em Ti meu Deus <br>
+Sobre todo nome é o seu <br>
+Tu és digno do louvor <br>
+Eu cantarei quão grande é o meu Deus <br>
+É o meu Deus <br>
 
-Quando o mar se agitar <br>
-Confiarei em Ti Senhor <br>
-E se a Terra se abrir <br>
-Confiarei em Ti meu Deus
+Quão grande é o meu Deus <br>
+Cantarei quão grande é o meu Deus <br>
+E todos hão de ver <br>
+Quão grande é o meu Deus <br>
 
-## Na casa
+Quão grande é o meu Deus <br>
+Cantarei quão grande é o meu Deus <br>
+E todos hão de ver <br>
+Quão grande é o meu Deus
 
-Fui convidado à mesa <br>
-Larguei minhas defesas <br>
-E vim reconhecer <br>
-Não merecia estar aqui <br>
+## Teu Poder
 
-Comigo eu trouxe amigos <br>
-Felizes ou feridos <br>
-Gente que escutou <br>
-Esse chamado e aceitou <br>
+Queremos te pedir Senhor <br>
+Teu poder, Teu poder <br>
+Só há um meio de vencer <br>
+ Teu poder, Teu poder <br>
 
-E é tão bom saber que há lugar aqui <br>
-A graça nos chamou à mesa do Senhor <br>
+O Teu poder que vem lá do alto <br>
+O Teu poder pra vencer o mal <br>
+Em Teu poder está nossa esperança <br> 
+Concede o Teu poder <br>
 
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
-De Deus pai <br>
-De Deus pai <br>
+Estamos tão cansados, Pai, <br>
+Dá poder, nos dá poder <br>
+Revive o nosso coração, <br>
+dá poder, nos dá poder. <br>
 
-O som da sua palavra <br>
-Curou a nossa alma <br>
-O Verbo nos amou <br>
-Da solidão nos resgatou <br>
-E é tão bom saber que há lugar aqui <br>
-A graça nos chamou à mesa do Senhor <br>
+O Teu poder que vem lá do alto <br>
+O Teu poder pra vencer o mal <br>
+Em Teu poder está nossa esperança <br>
+ Concede o Teu poder <br>
 
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
-
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
-De Deus Pai <br>
-De Deus Pai <br>
-Do meu Pai <br>
-Do teu Pai <br>
-Do nosso Pai <br>
-
-Há lugar na casa <br>
-Há perdão na casa <br>
-Quando estamos juntos <br>
-Nosso encontro é casa de Deus Pai <br>
-Há esperança na casa <br>
-Recomeço na casa <br>
-Reunidos Nele <br>
-Nosso encontro é casa de Deus Pai <br>
-De Deus Pai <br>
-De Deus pai <br>
-Do meu Pai <br>
-Do teu Pai <br>
-Do nosso Pai
-
-## Canção do Apocalipse
-
-Digno é o cordeiro <br>
-Que foi morto <br>
-Santo, santo ele é <br>
-Um novo cântico <br>
-Ao que se assenta <br>
-Sobre o trono do céu <br>
-
-Digno é o cordeiro <br>
-Que foi morto <br>
-Santo, santo ele é <br>
-Um novo cântico <br>
-Ao que se assenta <br>
-Sobre o trono do céu <br>
-
-Santo, santo, santo <br>
-Deus todo poderoso <br>
-Que era, e é e há de vir <br>
-Com a criação eu canto <br>
-Louvores ao rei dos reis <br>
-És tudo para mim <br>
-E eu te adorarei <br>
-
-Maravilhado, extasiado <br>
-Eu fico ao ouvir teu nome <br>
-Jesus, teu nome é força <br>
-É fôlego de vida <br>
-Misteriosa água viva <br>
-
-Santo, santo, santo <br>
-Deus todo poderoso <br>
-Que era, e é e há de vir <br>
-Com a criação eu canto <br>
-Louvores ao rei dos reis <br>
-És tudo para mim <br>
-E eu te adorarei <br>
-
-Maravilhado, extasiado <br>
-Eu fico ao ouvir teu nome <br>
-
-Maravilhado, extasiado <br>
-Eu fico ao ouvir teu nome <br>
-
-Maravilhado, extasiado <br>
-Eu fico ao ouvir teu nome <br>
-Jesus, teu nome é força <br>
-É fôlego de vida <br>
-Misteriosa água viva <br>
-
-Santo, santo, santo <br>
-Deus todo poderoso <br>
-Que era, e é e há de vir <br>
-Com a criação eu canto <br>
-Louvores ao rei dos reis <br>
-És tudo para mim <br>
-E eu te adorarei <br>
-
-Santo, santo, santo <br>
-Deus todo poderoso <br>
-Que era, e é e há de vir <br>
-Com a criação eu canto <br>
-Louvores ao rei dos reis <br>
-És tudo para mim <br>
-E eu te adorarei <br>
-
-Santo, santo, santo <br>
-Deus todo poderoso <br>
-Que era, e é e há de vir <br>
-Com a criação eu canto <br>
-Louvores ao rei dos reis <br>
-És tudo para mim <br>
-E eu te adorarei
+O Teu poder que vem lá do alto <br>
+O Teu poder pra vencer o mal <br>
+Em Teu poder está nossa esperança <br> 
+Concede o Teu poder
