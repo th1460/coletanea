@@ -4,6 +4,7 @@ format:
     html: 
         fontsize: 120%
         page-layout: full
+theme: custom.scss
 self-contained: true
 ---
 
@@ -14,6 +15,9 @@ self-contained: true
 - [A Verdadeira Alegria](#a-verdadeira-alegria)
 - [Toma Meu Coração](#toma-meu-coração)
 - [Não Tardará](#não-tardará)
+- [Maravilhas](#maravilhas)
+- [Descansarei](#descansarei)
+- [Não mais eu](#não-mais-eu)
 
 ## A Verdadeira Alegria
 
@@ -103,4 +107,124 @@ Conversar com Jesus <br>
 
 Não tardará, Cristo irá voltar <br>
 Não tardará, vamos para o lar <br>
+[Retorne ao menu](#músicas)
+
+## Maravilhas
+
+Meu coração se alegra no Senhor <br>
+Proclama a Sua grandeza <br>
+O Seu perdão alcança todos nós <br>
+Sua graça nos cobre de bênçãos <br>
+Seu nome santo é <br>
+Santo é o Senhor <br>
+
+Maravilhas Ele fez, nos mostrou o Seu poder <br>
+Ele é o nosso rei dos reis, Jesus <br>
+Maravilhas Ele fez, Ele operou em mim <br>
+Seu poder me resgatou, Jesus <br>
+
+Meu coração se alegra no Senhor <br>
+Proclama a Sua grandeza <br>
+O Seu perdão alcança todos nós <br>
+Sua graça nos cobre de bênçãos <br>
+Seu nome santo é <br>
+Santo é o Senhor <br>
+
+Maravilhas Ele fez, nos mostrou o Seu poder <br>
+Ele é o nosso rei dos reis, Jesus <br>
+Maravilhas Ele fez, Ele operou em mim <br>
+Seu poder me resgatou, Jesus <br>
+
+O Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar e vou cantar <br>
+O Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar e vou cantar <br>
+
+Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar, vou cantar <br>
+Maravilhas Ele fez, nos mostrou o Seu poder <br>
+Ele é o nosso rei dos reis, Jesus <br>
+Maravilhas Ele fez, Ele operou em mim <br>
+Seu poder me resgatou, Jesus <br>
+O Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar e vou cantar <br>
+Seu nome eu vou louvar, vou cantar <br>
+[Retorne ao menu](#músicas)
+
+## Descansarei
+
+Cobre-me com Tuas mãos <br>
+Com poder, vem me esconder, Senhor <br>
+
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+Sobre as águas Tu também és rei <br>
+Descansarei, pois sei que és Deus <br>
+
+Minha alma está segura em Ti <br>
+Sabe bem que em Cristo firme está <br>
+
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+Sobre as águas Tu também és rei <br>
+Descansarei, pois sei que és Deus <br>
+
+Se o trovão e o mar se erguendo vêm <br>
+Sobre a tempestade eu voarei <br>
+Sobre as águas Tu também és rei <br>
+Descansarei, pois sei que és Deus <br>
+
+Descansarei, pois sei que és Deus <br>
+[Retorne ao menu](#músicas)
+
+## Não mais eu
+
+Foi na cruz, foi na cruz, em que ao fim percebi <br>
+Meu pecado recaiu em Jesus <br>
+Foi então, pela fé, que meus olhos abri <br>
+Que prazer sinto agora em sua luz <br>
+
+Eu irei para a cruz, onde pude perceber <br>
+Esse amor que por mim foi pago <br>
+Sua mão me curou, sua morte me salvou <br>
+Eu irei, eu irei para a cruz <br>
+
+Quão perdido estou, quão vazio o coração <br>
+Não sou digno de tanto amor <br>
+Foi então, pela fé, que meus olhos abri <br>
+Que prazer sinto agora em sua luz <br>
+
+Eu irei para a cruz, onde pude perceber <br>
+Este amor que por mim foi pago <br>
+Sua mão me curou sua morte me salvou <br>
+Eu irei, eu irei para a cruz <br>
+
+Não mais eu, não mais eu <br>
+É Jesus que vive em mim <br>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+
+Não mais eu, não mais eu <br>
+É Jesus quem vive em mim <br>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+
+Não mais eu, não mais eu <br>
+É Jesus quem vive em mim <br>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+
+Não mais eu, não mais eu <br>
+É Jesus quem vive em mim <br>
+Cristo vive em mim <br>
+Cristo vive em mim <br>
+
+Eu irei para cruz, onde pude perceber <br>
+Este amor que por mim foi pago <br>
+Sua mão me curou, sua morte me salvou <br>
+Eu irei, eu irei para a cruz <br>
+Eu irei, eu irei para a cruz <br>
 [Retorne ao menu](#músicas)
