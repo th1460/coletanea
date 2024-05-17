@@ -12,102 +12,12 @@ self-contained: true
 
 ## Músicas
 
-- [A Verdadeira Alegria](#a-verdadeira-alegria)
-- [Toma Meu Coração](#toma-meu-coração)
-- [Não Tardará](#não-tardará)
 - [Maravilhas](#maravilhas)
 - [Descansarei](#descansarei)
 - [Não mais eu](#não-mais-eu)
-
-## A Verdadeira Alegria
-
-A alegria está no coração <br>
-De quem já conhece a Jesus. <br>
-A verdadeira paz só tem aquele <br>
-Que já conhece a Jesus <br>
-O sentimento mais precioso <br>
-Que vem do nosso Senhor <br>
-É o amor que só tem quem já conhece a Jesus <br>
-
-(Repete tudo 2x dividindo com): <br>
-Aleluia, aleluia, aleluia, aleluia <br>
-
-Final: <br>
-É o amor que só tem quem já conhece a Jesus <br>
-Que só tem, quem já conhece a Jesus. <br>
-Aleluia Amém. <br>
-[Retorne ao menu](#músicas)
-
-## Toma Meu Coração
-        
-Este é meu desejo <br>
-Senhor, te honrar <br>
-Com meu coração, te adorar <br>
-Tudo o que há em mim <br>
-Te dá louvor <br>
-Só a ti adoro, meu Senhor <br>
-
-Toma o meu coração <br>
-E toda a minha alma <br>
-Eu vivo só pra ti <br>
-Sempre que eu respirar <br>
-Cada vez que eu acordar <br>
-Faze o teu querer em mim <br>
-
-Este é meu desejo <br>
-Senhor, te honrar <br>
-Com meu coração, te adorar <br>
-Tudo o que há em mim <br>
-Te dá louvor <br>
-Só a ti adoro, meu Senhor <br>
-
-Toma o meu coração <br>
-E toda a minha alma <br>
-Eu vivo só pra ti <br>
-Sempre que eu respirar <br>
-Cada vez que eu acordar <br>
-Faze o teu querer em mim <br>
-
-Toma o meu coração <br>
-E toda a minha alma <br>
-Eu vivo só pra ti <br>
-Sempre que eu respirar <br>
-Cada vez que eu acordar <br>
-Faze o teu querer em mim <br>
-
-Toma o meu coração <br>
-E toda a minha alma <br>
-Eu vivo só pra ti <br>
-Sempre que eu respirar <br>
-Cada vez que eu acordar <br>
-Faze o teu querer em mim <br>
-[Retorne ao menu](#músicas)
-
-## Não Tardará
-        
-Não tardará, Cristo irá voltar <br>
-Não tardará, vamos para o lar <br>
-Não tardará, Cristo irá voltar <br>
-Não tardará, vamos para o lar <br>
-
-Eu quero me preparar <br>
-Pois vamos logo subir <br>
-E quero junto a você <br>
-Lá no céu <br>
-Conversar com Jesus <br>
-
-Não tardará, Cristo irá voltar <br>
-Não tardará, vamos para o lar <br>
-
-Eu quero me preparar <br>
-Pois vamos logo subir <br>
-E quero junto a você <br>
-Lá no céu <br>
-Conversar com Jesus <br>
-
-Não tardará, Cristo irá voltar <br>
-Não tardará, vamos para o lar <br>
-[Retorne ao menu](#músicas)
+- [A Verdadeira Alegria](#a-verdadeira-alegria)
+- [Toma Meu Coração](#toma-meu-coração)
+- [Não Tardará](#não-tardará)
 
 ## Maravilhas
 
@@ -227,4 +137,94 @@ Este amor que por mim foi pago <br>
 Sua mão me curou, sua morte me salvou <br>
 Eu irei, eu irei para a cruz <br>
 Eu irei, eu irei para a cruz <br>
+[Retorne ao menu](#músicas)
+
+## A Verdadeira Alegria
+
+A alegria está no coração <br>
+De quem já conhece a Jesus. <br>
+A verdadeira paz só tem aquele <br>
+Que já conhece a Jesus <br>
+O sentimento mais precioso <br>
+Que vem do nosso Senhor <br>
+É o amor que só tem quem já conhece a Jesus <br>
+
+(Repete tudo 2x dividindo com): <br>
+Aleluia, aleluia, aleluia, aleluia <br>
+
+Final: <br>
+É o amor que só tem quem já conhece a Jesus <br>
+Que só tem, quem já conhece a Jesus. <br>
+Aleluia Amém. <br>
+[Retorne ao menu](#músicas)
+
+## Toma Meu Coração
+        
+Este é meu desejo <br>
+Senhor, te honrar <br>
+Com meu coração, te adorar <br>
+Tudo o que há em mim <br>
+Te dá louvor <br>
+Só a ti adoro, meu Senhor <br>
+
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+
+Este é meu desejo <br>
+Senhor, te honrar <br>
+Com meu coração, te adorar <br>
+Tudo o que há em mim <br>
+Te dá louvor <br>
+Só a ti adoro, meu Senhor <br>
+
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+
+Toma o meu coração <br>
+E toda a minha alma <br>
+Eu vivo só pra ti <br>
+Sempre que eu respirar <br>
+Cada vez que eu acordar <br>
+Faze o teu querer em mim <br>
+[Retorne ao menu](#músicas)
+
+## Não Tardará
+        
+Não tardará, Cristo irá voltar <br>
+Não tardará, vamos para o lar <br>
+Não tardará, Cristo irá voltar <br>
+Não tardará, vamos para o lar <br>
+
+Eu quero me preparar <br>
+Pois vamos logo subir <br>
+E quero junto a você <br>
+Lá no céu <br>
+Conversar com Jesus <br>
+
+Não tardará, Cristo irá voltar <br>
+Não tardará, vamos para o lar <br>
+
+Eu quero me preparar <br>
+Pois vamos logo subir <br>
+E quero junto a você <br>
+Lá no céu <br>
+Conversar com Jesus <br>
+
+Não tardará, Cristo irá voltar <br>
+Não tardará, vamos para o lar <br>
 [Retorne ao menu](#músicas)
