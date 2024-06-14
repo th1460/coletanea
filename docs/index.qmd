@@ -12,6 +12,7 @@ self-contained: true
 
 ## Músicas
 
+- [Verei Jesus](#verei-jesus)
 - [Meu refúgio](#meu-refúgio)
 - [Milagres](#milagres)
 - [Maranata](#maranata)
@@ -24,6 +25,46 @@ self-contained: true
 - [Toma Meu Coração](#toma-meu-coração)
 - [Não Tardará](#não-tardará)
 - [Mensageiro](#mensageiro)
+
+## Verei Jesus
+
+Almejo o dia em que verei <br>
+Uma pequena luz no céu <br>
+E essa luz aumentará <br>
+Milhares de anjos surgirão <br>
+
+Eu creio sim que ele virá <br>
+E muito em breve eu subirei <br>
+Pra um novo lar, um novo céu <br>
+Pra sempre eu estarei <br>
+Feliz eu viverei <br>
+Verei Jesus <br>
+
+A voz de Deus irá soar <br>
+Nas nuvens sua glória surgirá <br>
+Mil gerações se encontrarão <br>
+E para sempre louvarão <br>
+
+Eu creio sim que ele virá <br>
+E muito em breve eu subirei <br>
+Pra um novo lar, um novo céu <br>
+Pra sempre eu estarei <br>
+Feliz eu viverei <br>
+Verei Jesus <br>
+
+Eu creio sim que ele virá <br>
+E muito em breve eu subirei <br>
+Pra um novo lar, um novo céu <br>
+Pra sempre eu estarei <br>
+Feliz eu viverei <br>
+
+Eu creio sim que ele virá <br>
+E muito em breve eu subirei <br>
+Pra um novo lar, um novo céu <br>
+Pra sempre eu estarei <br>
+Feliz eu viverei <br>
+Verei Jesus <br>
+[Retorne ao menu](#músicas)
 
 ## Meu Refúgio
 
